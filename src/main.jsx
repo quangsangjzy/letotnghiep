@@ -36,7 +36,7 @@ const CONFIG = {
   dateLabel: "26.06.2026",
   ceremonyDate: "2026-06-26T00:00:00+07:00",
   timeLabel: "",
-  venueName: "Học viện Ngoại giao",
+  venueName: "Tòa D Học viện Ngoại giao",
   venueAddress: "69 Chùa Láng, Đống Đa, Hà Nội",
   partyName: "Sunshine Garden Restaurant",
   partyTime: "18:00 tối cùng ngày",
@@ -386,7 +386,7 @@ function VenueSection() {
             <CalendarDays size={22} />
             <div>
               <strong>{CONFIG.dateLabel}</strong>
-              <p>Lễ trao bằng và chụp ảnh lưu niệm.</p>
+              <p>Thời gian: 17h-18h30</p>
             </div>
           </div>
           <div className="venue-block">
@@ -394,6 +394,7 @@ function VenueSection() {
             <div>
               <strong>{CONFIG.venueName}</strong>
               <p>{CONFIG.venueAddress}</p>
+              <p><i>(mọi người gửi xe trong trường luôn nhé)</i></p>
             </div>
           </div>
           <div className="venue-block">

@@ -13,7 +13,7 @@ export const GUESTS = {
     group: "Bạn bè",
     greeting: "Hello Yến,",
     message:
-      "Vậy và cũng ở chung với nhau được gần 2 năm rùiii, mời Yến đến viện D chụp cùng tớ tấm ảnh kỷ niệm tốt nghiệp nhé. Mong là sau ra trường 2 đứa đều tìm được một công việc ưng ý để khỏi về quê hehehe.",
+      "Vậy là cũng ở chung với nhau được gần 2 năm rùiii, mời Yến đến viện D chụp cùng tớ tấm ảnh kỷ niệm tốt nghiệp nhé. Mong là sau ra trường 2 đứa đều tìm được một công việc ưng ý để khỏi về quê hehehe. ",
   },
   "chi-hong": {
     name: "Chị Hồng",
@@ -53,7 +53,7 @@ export const GUESTS = {
     group: "Bạn bè",
     greeting: "Gửi Minh Anh xing gái, ",
     message:
-      "Sau 4 năm chạy deadline viện D, thì chị cũng đã được tốt nghiệp rùi. Hưu duyên là mình cùng trường, làm chung ở VAF rồi em giới thiệu chương trình của Youthlinc cho chị. Siêu biết ơn em luôn, niềm vui sẽ x2 nếu Minh Anh đến chụp chung cùng chị vài bức ảnh kỷ niệm và để chị gửi quà Hạ Long cho em luôn hihi.",
+      "Sau 4 năm chạy deadline viện D, thì chị cũng đã được tốt nghiệp rùi. Hữu duyên là mình cùng trường, làm chung ở VAF rồi em giới thiệu chương trình của Youthlinc cho chị. Siêu biết ơn em luôn, niềm vui sẽ x2 nếu Minh Anh đến chụp chung cùng chị vài bức ảnh kỷ niệm và để chị gửi quà Hạ Long cho em luôn hihi. ",
   },
   "anh-nam": {
     name: "Anh Thế Nam",
