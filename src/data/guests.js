@@ -7,7 +7,7 @@ export const GUESTS = {
     message:
       "Vậy là sau 4 năm đèn sách, em cũng đã chính thức tốt nghiệp DAV rùiiii.  Trong quá trình đó em đã biết tới Crossing Vietnam Tour và biết đến nhóm nhảy ngựa hoang tại YEP. Mọi người sẽ là một phần rất đẹp trong hành trình tập làm người lớn của em, lễ tốt nghiệp đại học cũng là một cột mốc trưởng thành của em nên rất mong cả nhà iuuu có thể dành một chút thời gian đến chụp cùng em tấm ảnh kỷ niệm. Sự hiện diện của cả nhà sẽ là niềm vui to đùng của em, mong có thể gặp lại anh Tú, anh Đạt, chị Lò, Phanh, Lan Anh, Sơn, và Long An.",
   },
-  "yen": {
+  yen: {
     name: "Yến",
     displayName: "Yến",
     group: "Bạn bè",
@@ -31,7 +31,7 @@ export const GUESTS = {
     message:
       "Năm nay bà nào cũng tốt nghiệp rùi, nhưng tui xin phép mở bát đầu tiên nha. Tui sẽ rất vui nếu các bà đến và chụp cùng tôi vài bức ảnh kỷ niệm (có thuê photographer nên đảm bảo xinggg đẹp nhé, không cần mếch up cũng được hoặc sương sương thui). Tình cảm này của tôi viết 10 trang cũng không thể diễn tả nổi đối với các bà, nên xin phép thể hiện khi gặp nhau nhé !",
   },
-  "cham": {
+  cham: {
     name: "Châm",
     displayName: "Châm",
     group: "Bạn bè",
@@ -71,7 +71,7 @@ export const GUESTS = {
     message:
       "Vậy là em đã chính thức tốt nghiệp sau 4 năm đèn sách, dù năm vừa rồi cũng không gặp với làm chung dự án với anh Nam nhưng em vẫn quý anh lắm ý. Quý vì thời gian mình làm dự án cùng nhau, từ những dự án đầu tiên, rồi sau này ai cũng out hết. Anh Nam đến chụp chung cùng em tấm ảnh kỷ niệm mừng em tốt nghiệp viện D nhé. Mong là mình có thể làm thêm nhiều dự án tình nguyện cùng nhau không ở Nắng Vùng Cao thì cũng sẽ ở một tổ chức hay dự án nào khác ạ.",
   },
-    "hung": {
+  hung: {
     name: "Hùng",
     displayName: "Hùng",
     group: "Bạn bè",
@@ -79,7 +79,7 @@ export const GUESTS = {
     message:
       "Mời em Hùng đến chụp cùng chị vài tấm ảnh kỷ niệm nhân cột mốc kết thúc 4 năm đèn sách nha. Sorry chị báo em hơi vội nhưng mà không riêng mày không đến là tao đấm đấy. Đến hôm đấy gặp chị biết đâu lại gặp thêm Châm hahaha",
   },
-    "quoc-anh": {
+  "quoc-anh": {
     name: "Quốc Anh",
     displayName: "Quốc Anh",
     group: "Bạn bè",
@@ -87,7 +87,7 @@ export const GUESTS = {
     message:
       "Chắc đợt này m chuẩn bị tốt nghiệp nên cũng bận, nhưng bạn có lời mời Quốc Anh đến viện D chụp cùng bạn tấm ảnh tốt nghiệp mừng bạn làm người lớn nha. Tốt nghiệp xong có thể nhiều người sẽ về quê hoặc đi đến một thành phố khác làm việc nên chắc cũng khó có dịp nào gặp nhau. Sorry vì t báo hơi gấp nhưng cố gắng sắp xếp đến nha m. ",
   },
-    "f12-nhom1": {
+  "f12-nhom1": {
     name: "F12 nhóm 1",
     displayName: "F12 nhóm 1",
     group: "Bạn bè",
@@ -95,7 +95,7 @@ export const GUESTS = {
     message:
       "Nhanh quá trời mới ngày nào đi họp nhóm buổi 1 mà giờ đã không được đi họp nhóm nữa rồi :((. Quá trình học làm người lần lớn của t thật đặc biệt khi biết đến Thông, Hường, Hiền và Tuyến. Hẹn 1 kèo tại Na Hang, Tuyên Quang quê mị (lần này sẽ thật chu đáo với các bạn nên bạn Tuyến đừng lo nha). Mời các bạn iuuu của tớ đến chụp cùng tớ bức ảnh kỷ niệm tại viện D, ai không đến được là buồn lắm đó. Tình cảm này không thể biểu hết bằng lời được nên hẹn các cậu hôm đó mình gặp nhau nhé !",
   },
-    "nhom1": {
+  nhom1: {
     name: "Nhóm 1",
     displayName: "Nhóm 1",
     group: "Bạn bè",
@@ -103,7 +103,7 @@ export const GUESTS = {
     message:
       "Vậy là 4 năm học đại học của em đã kết thúc, cũng là 4 năm em may mắn khi trở thành thành viên của đại gia đình VietSeeds và Nhóm Một Nhà mình ạ. Cảm ơn chị Ngân và các anh chị F10, F11 đã luôn hỗ trợ, góp ý, dạy bảo em thêm nhiều điều. Cảm ơn các em F13,F14 và F15 đã luôn chu đáo trong các lần họp nhóm cũng như chuẩn bị bonding của nhóm. Nhờ có mọi người mà hành trình tập làm người lớn của em trở nên nhẹ nhàng và đặc biệt hơn. Rất mong các anh chị, các bạn và các em có thể dành chút thời gian đến chụp cùng em vài tấm ảnh mừng em tốt nghiệp ở viện D ạ. iuuu cả nhà ",
   },
-    "chi-trang": {
+  "chi-trang": {
     name: "Chị Trang",
     displayName: "Chị Trang",
     group: "Bạn bè",
@@ -111,13 +111,29 @@ export const GUESTS = {
     message:
       "Nhiều khi em thật may mắn khi được nhận học bổng từ VietSeeds nhưng còn may mắn khi được chị làm Mentor ạ. Chị là người có ảnh hưởng nhiều nhất đối tư duy, cách suy nghĩ của em trong quá trình học đại học ạ. Hiện tại, em vấn còn nhiều thiếu sót nhưng em vẫn cố gắng học tập và thay đổi tốt hơn hàng ngày ạ. So với Hạnh của năm nhất đại học thì giờ em cũng đã lớn hơn nhiều rồi ạ. Sau khi tốt nghiệp, em biết sẽ vẫn còn nhiều khó khăn nên em mong chị Trang vẫn tiếp tục đồng hành cùng em, cho em xin thêm những lời khuyên từ chị ạ. Em sẽ rất vui nếu chị có thể sắp xếp thời gian đến chụp cùng em vài tấm ảnh kỷ niệm ạ (em có thuê photographer nên đảm bảo chụp là xinh gái chị hihi). hẹn gặp chị iuuu hôm đó ạ, em cảm ơn chị rất nhiều. ",
   },
-    "nhom-mentee": {
+  "nhom-mentee": {
     name: "F13,14,15",
     displayName: "F13,14,15",
     group: "Bạn bè",
     greeting: "Thân gửi các mentees trai xing gái đẹp của chị Trang, ",
     message:
       "Vậy là em Hạnh chính thức tốt nghiệp rùi, thân mời chị Trang, các bạn Lộc và Hiền, các em Oanh, Dương, Uyên, Đạt, Viễn, Trang đến chụp cùng em vài tấm ảnh kỷ niệm đánh dấu cột mốc trường thành của em nha. Cả nhà hôm đó cứ trang điểm xinh đẹp, quần áo xúng xính để lên hình thật lung linh nhé ạ. Hẹn gặp cả nhà hôm đó ạ.",
+  },
+  "chi-trinh": {
+    name: "Chị Trinh",
+    displayName: "Chị Trinh",
+    group: "Bạn bè",
+    greeting: "Thân gửi chị Trinh, ",
+    message:
+      "Mới năm ngoái đi tốt nghiệp chị mà giờ em cũng đã được tốt nghiệp rồi đây. Trộm vía được vào CLB và biết đến chị Trinh và học hỏi được nhiều thứ từ chị. Hôm đó em chụp pre-graduation tại trường, chị đến chụp với em tấm ảnh làm kỷ niệm nha chị. ",
+  },
+  "ha": {
+    name: "Hà",
+    displayName: "Hà",
+    group: "Bạn bè",
+    greeting: "Gửi bà Hà Mật, ",
+    message:
+      "Cuối cùng cũng thoát khỏi deadline viện D, kính mời bà Hà đến chụp cùng tui tấm ảnh tại trường làm kỷ niệm nha. Cũng 2 năm ở cùng nhau,4 năm cùng trường nên nhớ đến chụp với bạn nhé.",
   },
 };
 
